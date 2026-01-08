@@ -2,7 +2,7 @@
 
 **AlgoVisualizer++** is a menu-driven Algorithm Visualizer created in C++ that helps to understand searching, sorting, and pattern-matching algorithms through clear console output.
 
-This project is constructive for learning Data Structures and Algorithms (DSA) and for lab demonstrations.
+This project is constructive for learning Data Structures and Algorithms (DSA).
 ---
 
 ##  Features
