@@ -1,4 +1,4 @@
-#  AlgoVisualizer++
+#  Algorithm-Learn-with C++
 
 **AlgoVisualizer++** is a menu-driven Algorithm Visualizer created in C++ that helps to understand searching, sorting, and pattern-matching algorithms through clear console output.
 
